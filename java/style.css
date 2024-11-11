@@ -1,0 +1,27 @@
+h1 {
+    color:#333;
+}
+
+.todo-container {
+    margin: 50px;
+
+}
+input {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    background-color: #9db5e6;
+    margin: 5px 0;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
